@@ -1,7 +1,8 @@
 
 body {
     background-color: lightblue;
-    color: green
+    color: green;
+    magin :auto;
     }
     
     h1 {
